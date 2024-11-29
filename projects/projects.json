@@ -7,4 +7,14 @@
         "view": "#",
         "code": "https://github.com/yugeshwar-gupta/Portfolio-Website"
     }
-}]
+},   
+{
+    "name": "SPPU Engg Prep",
+    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "image": "yugeshwar",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+    ]
