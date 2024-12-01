@@ -1,20 +1,21 @@
+
 [{
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "name": "Hulu Website",
+    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
     "image": "yugeshwar",
-    "category": "basicweb",
+    "category": "mern",
     "links": {
-        "view": "#",
-        "code": "https://github.com/yugeshwar-gupta/Portfolio-Website"
+        "view": "https://hulu-clone-jigar-sable.vercel.app/",
+        "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
     }
-},   
-{
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "yugeshwar",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/sppu-prep-android"
-    }
+},
+    {
+        "name": "Hulu Website",
+        "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
+        "image": "yugeshwar",
+        "category": "mern",
+        "links": {
+            "view": "https://hulu-clone-jigar-sable.vercel.app/",
+            "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
+        }
 }]
